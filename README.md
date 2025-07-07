@@ -99,7 +99,7 @@ cryptographer/
 
 ## 👨‍💻 Author
 
-**Pulkit Gahlot**
+Hi, I'm **Pulkit Gahlot**, a cyber security enthusiast and passionate to be an ethical hacker.
 
 Feel free to connect!
 - **Linkedin**: [Pulkit Gahlot](https://linkedin.com/in/pulkit-gahlot)
