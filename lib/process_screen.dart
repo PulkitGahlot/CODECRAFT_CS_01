@@ -21,7 +21,7 @@ class _ProcessScreenState extends State<ProcessScreen> {
 
   Future<void> _processText() async {
     final response = await http.post(
-      Uri.parse('http://192.168.29.111:8000/cipher'), // Use PC IP if on physical device
+      Uri.parse('http://10.0.2.2:8000/cipher'), // Use PC IP if on physical device
       headers: {"Content-Type": "application/json"},
       body: jsonEncode({
         "text": _inputController.text,
