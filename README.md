@@ -50,7 +50,7 @@ cryptographer/
 1. Install Flutter: https://flutter.dev/docs/get-started/install
 2. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/cryptographer.git
+   git clone https://github.com/PulkitGahlot/CODECRAFT_CS_01.git
    cd cryptographer
    ```
 3. Install packages:
