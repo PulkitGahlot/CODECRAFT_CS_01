@@ -1,4 +1,4 @@
-# Cryptographer: A Caesar Cipher Text Encryptor & Decryptor (Flutter + Python FastAPI) 🔐
+# Cryptographer: A Caesar Cipher Text Encryptor & Decryptor (Flutter + Python) 🔐
 
 A mobile application built using the **Flutter framework** and **Dart language**, integrated with a **Python FastAPI backend**, designed to Encrypt and Decrypt text messages using the **Caesar Cipher** algorithm based on ASCII values.
 This app provides a clean, user-friendly UI and demonstrates full-stack mobile development with Python integration. It is ideal for Educational Purposes, Cryptography Practice, and Demonstrating Client-Server Communication.
